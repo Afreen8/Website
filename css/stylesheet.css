@@ -1,0 +1,48 @@
+#validation {
+	color: red;
+}
+
+a
+{
+  text-decoration:none;
+  color: black;
+ /* border: 1px;
+  border-style: solid;*/
+  /*background-color: */
+}
+
+#menu ul {
+	margin: 0px 0px 0px 10px;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+}
+#menu a {
+	display: block;
+	height: 29px;
+	margin-right: 2px;
+	margin-bottom: 5px;
+	padding: 10px 5px 0px 20px;
+	text-align: center;
+	font-family: Comic Sans MS, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+}
+
+#container
+{
+	margin-top: 50px;
+	height:700px;
+	border : 1px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#footer
+{
+	height:100px;
+}
